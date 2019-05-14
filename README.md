@@ -7,3 +7,4 @@
 ### docs
 
 - [Spring Cloud Stream使用细节](https://blog.csdn.net/u012702547/article/details/78710120)
+- [Spring Cloud Stream Kafka、RabbitMQ](https://docs.spring.io/spring-cloud-stream/docs/Chelsea.BUILD-SNAPSHOT/reference/htmlsingle/index.html)
